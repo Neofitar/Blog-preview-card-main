@@ -1,14 +1,14 @@
 #  Tarjeta de vista previa de blog 📝
 
 Creación de tarjeta de vista previa del blog recreando el diseño planteado lo más parecido posible al diseño propuesto en FrontendMentor.
+- Demo: (https://neofitar.github.io/Blog-preview-card-main.io/)
 
-![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+![image](https://github.com/Neofitar/Blog-preview-card-main.io/assets/111058276/f7690ace-8db0-4fe1-88fc-d4dbd7d07de9)
 
-Los usuarios pueden realizar:
-- Agregue su correo electrónico y envíe el formulario.
-- Ver un mensaje de éxito con su correo electrónico después de enviar correctamente el formulario.
-- Vea los mensajes de validación del formulario si:
-- El campo queda vacío.
-- La dirección de correo electrónico no tiene el formato correcto
-- Ver el diseño óptimo para la interfaz según el tamaño de pantalla de su dispositivo
-- Vea los estados de desplazamiento y enfoque de todos los elementos interactivos de la página.
+Los usuarios pueden visualizar:
+- Responsividad de la página para dispositivos.
+
+  
+## Tecnologías:
+- HTML
+- CSS
